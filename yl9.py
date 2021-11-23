@@ -6,9 +6,9 @@ if a + b <= c or b + c <= a or a + c <= b:
     print("sellist kolmnurka ei eksiteeri")
 
 elif a == b and b == c:
-    print("tegu on vordkygse kolmurgaga")
+    print("tegu on vordkylgse kolmurgaga")
 
-elif a == b or b ==c or a == c
+elif a == b or b ==c or a == c:
     print("tegu on vordhaarse kolmnurgaga")
 
 else:
